@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="runcool_weather"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.runcoolweather.db.Province"/>
+        <mapping class="com.example.runcoolweather.db.City"/>
+        <mapping class="com.example.runcoolweather.db.County"/>
+    </list>
+</litepal>
